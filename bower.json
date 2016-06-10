@@ -1,5 +1,5 @@
 {
-  "name": "markcell/jquery-tabledit",
+  "name": "jquery-tabledit",
   "version": "1.2.3",
   "description": "Inline editor for HTML tables compatible with Bootstrap.",
   "main": "jquery.tabledit.js",
